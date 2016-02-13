@@ -1,0 +1,6 @@
+.git
+.DS_Store
+.dockerignore
+LICENSE
+README.md
+*.pyc
